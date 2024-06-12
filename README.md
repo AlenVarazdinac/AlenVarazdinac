@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alen
-- 🌱 My current stack is **HTML**, **CSS**, **Javascript** and **VueJS**
+- 🌱 My current stack is **HTML**, **CSS**, **SCSS**, **Javascript**, **Typescript**, **VueJS**, **Nuxt**, **React**, **NextJS**
 - 📫 You can reach me by mailing at **alen.varazdinac@gmail** or by DMing me on my personal [Instagram account](https://instagram.com/alenvarazdinac/)
 
 - [Personal website](https://alenv.com/)
