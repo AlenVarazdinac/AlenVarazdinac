@@ -1,5 +1,4 @@
 ### 👋 Hi, I’m Alen. Web developer from Croatia and I love creating web apps.<br/>
-<br/>
 
 ### 📱 Two of my apps I worked on solo:
 1. ClearPixel - Restore and improve the quality of your selfie photos - [clearpixel.io](https://www.clearpixel.io/)<br/>
