@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Alen
-- 🌱 My current stack is **HTML**, **CSS**, **SCSS**, **Javascript**, **Typescript**, **VueJS**, **Nuxt**, **React**, **NextJS**
+- 🌱 My current stack is:
+  **HTML**, **CSS**, **SCSS**, **TailwindCSS**, **Shadcn**,
+  **Javascript**, **Typescript**,
+  **VueJS**, **Nuxt**, **Pinia**
+  **React**, **NextJS**, **Redux**,
+  **Jest**, **MongoDB**
 - 📫 You can reach me by mailing at **alen.varazdinac@gmail** or by DMing me on my personal [Instagram account](https://instagram.com/alenvarazdinac/)
 
 - [Personal website](https://alenv.com/)
